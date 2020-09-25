@@ -1,9 +1,10 @@
-package middleware
+package timer
 
 import (
 	"fmt"
-	"github.com/gofiber/fiber/v2"
 	"time"
+
+	"github.com/gofiber/fiber/v2"
 )
 
 // Config defines the configuration for middleware.
